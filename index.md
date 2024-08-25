@@ -5,7 +5,7 @@
 - Great Supportive and Enthusiastic Teachers
 - Great Supportive and Enthusiastic Friends
 - Very helpful class material
-- Easy to learn material because of great instructions
+- Easy to learn material because of great instructions 
 
 ## Welcome to GitHub Pages
 
