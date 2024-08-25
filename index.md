@@ -1,6 +1,6 @@
 # Ethan Wang's First CS193 Homework
-## Header 2
-### Header 3
+## Welcome to my First Website!
+### I love computer science and everything
 
 - Great Supportive and Enthusiastic Teachers
 - Great Supportive and Enthusiastic Friends
